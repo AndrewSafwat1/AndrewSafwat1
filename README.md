@@ -47,7 +47,7 @@
   
 <div align="left">
   <a href="https://www.linkedin.com/in/andrew-safwat-csed26/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-  <a href="andrewsafwat900@gmail.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
+  <a href="mailto: andrewsafwat900@gmail.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
    <a href="https://codeforces.com/profile/Andrew_Safwat" target="_blank"> <img src="https://img.shields.io/static/v1?message=codeforces&logo=codeforces&label=&color=088F8F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codeforces logo"  /> </a>
    <a href="https://leetcode.com/andrewsafwat1/" target="_blank"> <img src="https://img.shields.io/static/v1?message=leetcode&logo=leetcode&label=&color=fb8824&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  /> </a>
 </div>
